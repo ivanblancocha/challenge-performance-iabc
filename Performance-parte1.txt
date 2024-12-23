@@ -1,0 +1,6 @@
+Necesitamos medir la estabilidad, comportamiento y adaptabilidad bajo la carga esperada. Por lo que yo haría:
+	-  Prueba de carga para medir como se comporta el sistema bajo las 1500 ventas por día y así sucesivamente durante un tiempo prolongado para ver degradaciones a lo largo del tiempo.
+	-  Prueba de estrés, para medir como se comporta el sistema cuando sobrepasa la carga esperada y detectar puntos de degradación.
+    - Spike test o pruebas de pico, para medir si el sistema se puede manejar bajo picos repentinos de usuarios.
+
+

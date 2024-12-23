@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Results and reports
+results/
+report/
+
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+Thumbs.db
+Desktop.ini
